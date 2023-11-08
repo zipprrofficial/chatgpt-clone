@@ -1,6 +1,6 @@
 A Chatgpt clone is a conversational AI platform that is modeled after ChatGPT, the popular chatbot developed by Anthropic. It utilizes natural language processing and machine learning to have human-like conversations and provide useful information to users.
 
-Just like ChatGPT, a <a href="https://zipprr.com/category/chatgpt-clone/">Chatgpt clone script</a> can understand natural language questions and provide detailed answers on a wide range of topics. It is trained on massive amounts of data to hold fluent conversations and generate human-like text responses. The goal is to make AI accessible for everyday users to get information quickly and easily through natural conversations.
+Just like ChatGPT, a <a href="https://zipprr.com/chatgpt-clone/">Chatgpt clone script</a> can understand natural language questions and provide detailed answers on a wide range of topics. It is trained on massive amounts of data to hold fluent conversations and generate human-like text responses. The goal is to make AI accessible for everyday users to get information quickly and easily through natural conversations.
 
 <h2><b>Key Features</b></h2>
 
